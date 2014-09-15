@@ -1,4 +1,4 @@
-# Ember CLI Addon Template
+# Ember Loading
 
 An ember [ember-cli](http://ember-cli.com) addon for loading SVG components. This
 addon was created to make it simple to add different types of loading indicators
