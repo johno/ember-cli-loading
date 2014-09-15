@@ -53,6 +53,8 @@ The SVGs were created by <https://github.com/jxnblk/loading>.
 
 MIT
 
+The License for Brent Jackson's loading SVGs: <https://github.com/jxnblk/loading>.
+
 ## Contributing
 
 1. Fork it
