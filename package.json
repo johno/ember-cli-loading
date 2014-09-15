@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-loading",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "An Ember addon for SVG loading components.",
   "main": "index.js",
   "scripts": {
